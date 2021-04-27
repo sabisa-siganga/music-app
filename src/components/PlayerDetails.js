@@ -12,5 +12,5 @@ function PlayerDetails(props) {
         </div>
     )
 }
-//
+
 export default PlayerDetails;
